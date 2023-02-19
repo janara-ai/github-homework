@@ -1,2 +1,2 @@
-# github-homewaork
+# github-homework
 learning github
